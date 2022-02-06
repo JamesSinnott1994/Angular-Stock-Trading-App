@@ -1,0 +1,1 @@
+# Angular-Stock-Trading-App
